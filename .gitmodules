@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GSAQ"]
+	path = GSAQ
+	url = https://github.com/cran/GSAQ
+	shallow = true
+	registered = true
